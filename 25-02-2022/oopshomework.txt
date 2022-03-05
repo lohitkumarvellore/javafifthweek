@@ -1,0 +1,15 @@
+1)  b)Driving electric car
+
+2)   b) both public and private can be used
+
+3)  a) base
+       derived
+       deriderived
+
+4)  b,c,d are correct options
+
+5) c) 13245
+
+6) a) 2
+
+7) d) int
